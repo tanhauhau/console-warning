@@ -1,0 +1,23 @@
+{
+  "name": "console-warning",
+  "version": "0.0.0",
+  "description": "Warning for console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "warning"
+  ],
+  "author": "Tan Li Hau",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanhauhau/console-warning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tanhauhau/console-warning/issues"
+  },
+  "homepage": "https://github.com/tanhauhau/console-warning#readme"
+}

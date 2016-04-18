@@ -1,0 +1,21 @@
+{
+  "name": "console-warning",
+  "description": "Warning for console",
+  "main": "index.js",
+  "authors": [
+    "Tan Li Hau"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "console",
+    "warning"
+  ],
+  "homepage": "https://github.com/tanhauhau/console-warning",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
