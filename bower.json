@@ -1,7 +1,7 @@
 {
   "name": "console-warning",
   "description": "Warning for console",
-  "main": "index.js",
+  "main": "warning.js",
   "authors": [
     "Tan Li Hau"
   ],
