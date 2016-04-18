@@ -25,7 +25,7 @@
         console.log("%c" + text, "background: red; color: yellow; font-size: x-large");
     }
 })(console);
-console.image('https://github.com/tanhauhau/console-warning/blob/master/warning.png?raw=true', function(){
+console.image('https://github.com/tanhauhau/console-warning/blob/master/warning.png?raw=true', 1, function(){
     console.bigText('This is a browser feature intended for developers. If someone told you to copy-paste something here it is a scam.');
     console.bigText('Do not try anything in the console.');
 });
