@@ -10,5 +10,5 @@ Creates a warning in your console.
 Insert this script tag at the end of your html file.
 
 ```html
-<script src="https://cdn.rawgit.com/tanhauhau/console-warning/master/warning.min.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/gh/tanhauhau/console-warning/warning.min.js" type="text/javascript"></script>
 ```
